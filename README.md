@@ -1,2 +1,3 @@
 # personal_database
-obsidian data
+
+obsidian asdasdasdasda
