@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 14097693
+      }
+    },
+    {
+      "query": "tag:#Reading  ",
+      "color": {
+        "a": 1,
+        "rgb": 6548
+      }
+    },
+    {
+      "query": "tag:#Watching  ",
+      "color": {
+        "a": 1,
+        "rgb": 759855
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 4807550
+      }
+    },
+    {
+      "query": "tag:#Guitar  ",
+      "color": {
+        "a": 1,
+        "rgb": 13705121
+      }
+    },
+    {
+      "query": "tag:#Math",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
+    },
+    {
+      "query": "tag:#Weakness  ",
+      "color": {
+        "a": 1,
+        "rgb": 5723996
+      }
+    },
+    {
+      "query": "tag:#practice",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#Physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 65284
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 1.5137098497258,
+  "lineSizeMultiplier": 0.754682714906346,
+  "collapse-forces": true,
+  "centerStrength": 0.21614481409002,
+  "repelStrength": 7.32876712328767,
+  "linkStrength": 0.166046966731898,
+  "linkDistance": 208,
+  "scale": 0.04974642528162987,
+  "close": true
+}

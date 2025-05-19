@@ -1,37 +1,144 @@
 {
   "main": {
-    "id": "9fca80580d9c7e5a",
+    "id": "b238426bb12b32ec",
     "type": "split",
     "children": [
       {
-        "id": "ee038b0cd4bcf803",
-        "type": "tabs",
+        "id": "55e28494c010ed70",
+        "type": "split",
         "children": [
           {
-            "id": "97512fd03875a9d8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
+            "id": "68fdf9ee40220910",
+            "type": "tabs",
+            "dimension": 66.25386996904025,
+            "children": [
+              {
+                "id": "4d74e80ef94592b7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "78d37dddb8cc20d3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "vault/Zettelkasten/Area in functions.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Area in functions"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "6ad0649921d568d0",
+            "type": "split",
+            "dimension": 33.746130030959755,
+            "children": [
+              {
+                "id": "2e42224ebe4a927c",
+                "type": "tabs",
+                "dimension": 54.16666666666666,
+                "children": [
+                  {
+                    "id": "98101ddf59cebbe1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "vault/Zettelkasten/Area in functions.md",
+                        "options": {
+                          "collapse-filter": false,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": -1.3,
+                          "nodeSizeMultiplier": 1.07712328767123,
+                          "lineSizeMultiplier": 1.53739726027397,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.5352121644321846,
+                          "close": true
+                        }
+                      },
+                      "icon": "lucide-git-fork",
+                      "title": "Graph of Area in functions"
+                    }
+                  },
+                  {
+                    "id": "1e26df2271600b71",
+                    "type": "leaf",
+                    "state": {
+                      "type": "git-view",
+                      "state": {},
+                      "icon": "git-pull-request",
+                      "title": "Source Control"
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "64f3e0f01092b9af",
+                "type": "tabs",
+                "dimension": 45.83333333333334,
+                "children": [
+                  {
+                    "id": "1f5f5f8a92e44f53",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true,
+                      "icon": "lucide-git-fork",
+                      "title": "Graph view"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "498f3a471ba71649",
+    "id": "adf76e88a67b6153",
     "type": "split",
     "children": [
       {
-        "id": "08b7e2b90b90f558",
+        "id": "2b0cc06212e6ca25",
         "type": "tabs",
         "children": [
           {
-            "id": "f08744d747f99cd1",
+            "id": "32ec01061e8d835d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +151,7 @@
             }
           },
           {
-            "id": "9715704354e5088d",
+            "id": "9dae8e90f1f7a6c3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +168,7 @@
             }
           },
           {
-            "id": "3e768041778aac8e",
+            "id": "20227f43c81410bb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,22 +181,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "3145b0b3ba8637c2",
+    "id": "3038bc649f230e54",
     "type": "split",
     "children": [
       {
-        "id": "fadc5e0ddc7a4d35",
+        "id": "7842a07bb3daea0b",
         "type": "tabs",
         "children": [
           {
-            "id": "c04ef5676cfe2b16",
+            "id": "43dcf6eb1e2ee19a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vault/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,68 +207,128 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "88ea0c5bd411ae01",
+            "id": "585a38cd50c3a14b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Sum of Arithmetic progression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Sum of Arithmetic progression"
             }
           },
           {
-            "id": "883a0b76cb446f63",
+            "id": "0b6aecf347671135",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettelkasten/Edge table.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Edge table"
+            }
+          },
+          {
+            "id": "e248b1ddb0f81279",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "ab3b28123a403edf",
+            "id": "7e280374531d2ddc",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 363.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "random-note:Open random note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97512fd03875a9d8",
-  "lastOpenFiles": []
+  "active": "32ec01061e8d835d",
+  "lastOpenFiles": [
+    "vault/Zettelkasten/📙Calculus.md",
+    "vault/My system in obsidian.md",
+    "vault/README.md",
+    "vault/Others/Files/to_do_app2.mp4",
+    "vault/Others/Files/todo_app1.mp4",
+    "vault/Others/Files/textfiled.mp4",
+    "vault/Others/Files/provider_video.mp4",
+    "vault/sdfsdfsdf.md",
+    "vault/Zettelkasten/PomoBasket.md",
+    "vault",
+    "vault/(Open/Closed Principle, OCP.md",
+    "vault/sdfsdf.md",
+    "vault/sdfsdfsdfsdfsdfsf.md",
+    "vault/🏠Home/_🏠Home.md",
+    "vault/Zettelkasten/Table of derivatives.md",
+    "vault/Zettelkasten/Examples of Derivative of a^x.md",
+    "Zettelkasten/Examples of Derivative.md",
+    "vault/Others/Files/Pasted image 20250511140843.png",
+    "vault/Others/Files/Pasted image 20250511140739.png",
+    "vault/Zettelkasten/Derivatives.md",
+    "vault/Zettelkasten/Threshold in CV.md",
+    "vault/Others/Files/Pasted image 20250511122207.png",
+    "vault/Zettelkasten/Derivatives of Inverse Trigonometric Functions.md",
+    "vault/Others/Files/Pasted image 20250510165759.png",
+    "vault/Others/Files/Pasted image 20250510164228.png",
+    "vault/Others/Files/Pasted image 20250510163348.png",
+    "vault/Others/Files/Pasted image 20250510162812.png",
+    "vault/Zettelkasten/Derivatives of inverse functions.md",
+    "vault/Others/Files/Pasted image 20250510155043.png",
+    "vault/Others/Files/Pasted image 20250510155031.png",
+    "vault/🏠Home/📐_MATH.md",
+    "vault/Zettelkasten/Functions and graphs.md",
+    "vault/Zettelkasten/Limits & Continuity.md",
+    "vault/Zettelkasten/Computer Vision.md",
+    "vault/Zettelkasten/Drawing in CV.md",
+    "vault/Zettelkasten/📙Statistics and Probability.md",
+    "vault/Zettelkasten/Analyzing one categorical variable.md",
+    "vault/Others/Files/Pasted image 20250510135655.png",
+    "vault/Zettelkasten/Edge detection in CV.md",
+    "vault/Zettelkasten/Implict differentiation.md",
+    "vault/(Open",
+    "vault/Excalidraw/Scripts/Downloaded",
+    "vault/Excalidraw/Scripts",
+    "vault/Excalidraw",
+    "Others/Files/Westminster 16 April 2024 AzaMath (3).pdf",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Без названия.canvas"
+  ]
 }

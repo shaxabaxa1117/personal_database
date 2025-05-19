@@ -1,0 +1,5 @@
+{
+  "template": "Others/Templates/SampleDate.template",
+  "folder": "Periodic/Daily",
+  "autorun": true
+}
