@@ -10,7 +10,7 @@
           {
             "id": "68fdf9ee40220910",
             "type": "tabs",
-            "dimension": 66.25386996904025,
+            "dimension": 75.12161223071577,
             "children": [
               {
                 "id": "4d74e80ef94592b7",
@@ -23,13 +23,42 @@
                   "icon": "lucide-git-fork",
                   "title": "Graph view"
                 }
+              },
+              {
+                "id": "8d47855fde67d8e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Zettelkasten/PomoBasket.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "PomoBasket"
+                }
+              },
+              {
+                "id": "5815bd095027c610",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "sdfsdfsdf.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "sdfsdfsdf"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "6ad0649921d568d0",
             "type": "split",
-            "dimension": 33.746130030959755,
+            "dimension": 24.878387769284224,
             "children": [
               {
                 "id": "2e42224ebe4a927c",
@@ -42,7 +71,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "🏠Home/_🏠Home.md",
+                        "file": "sdfsdfsdf.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -65,16 +94,16 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.5352121644321846,
+                          "scale": 0.5352121644321844,
                           "close": true
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of _🏠Home"
+                      "title": "Graph of sdfsdfsdf"
                     }
                   },
                   {
-                    "id": "1e26df2271600b71",
+                    "id": "c07a5e191689bdd9",
                     "type": "leaf",
                     "state": {
                       "type": "git-view",
@@ -182,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/README.md",
+                "file": "Zettelkasten/Sum of Arithmetic progression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +221,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Sum of Arithmetic progression"
             }
           },
           {
@@ -244,7 +273,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -256,6 +286,7 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
+      "random-note:Open random note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
@@ -264,55 +295,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d74e80ef94592b7",
+  "active": "5815bd095027c610",
   "lastOpenFiles": [
     "🏠Home/_🏠Home.md",
-    "Excalidraw/Scripts/Downloaded/Darken background color.svg",
-    "Excalidraw/Scripts/Downloaded/Darken background color.md",
+    "Zettelkasten/Table of derivatives.md",
+    "Zettelkasten/Examples of Derivative of a^x.md",
+    "Zettelkasten/Examples of Derivative.md",
+    "Others/Files/Pasted image 20250511140843.png",
+    "Others/Files/Pasted image 20250511140739.png",
+    "Zettelkasten/Derivatives.md",
+    "Zettelkasten/Threshold in CV.md",
+    "Others/Files/Pasted image 20250511122207.png",
+    "Zettelkasten/Derivatives of Inverse Trigonometric Functions.md",
+    "Others/Files/Pasted image 20250510165759.png",
+    "Others/Files/Pasted image 20250510164228.png",
+    "Others/Files/Pasted image 20250510163348.png",
+    "Others/Files/Pasted image 20250510162812.png",
+    "Zettelkasten/Derivatives of inverse functions.md",
+    "Others/Files/Pasted image 20250510155043.png",
+    "Others/Files/Pasted image 20250510155031.png",
+    "Zettelkasten/📙Calculus.md",
+    "🏠Home/📐_MATH.md",
+    "Zettelkasten/Functions and graphs.md",
+    "Zettelkasten/Limits & Continuity.md",
+    "Zettelkasten/Computer Vision.md",
+    "Zettelkasten/Drawing in CV.md",
+    "Zettelkasten/📙Statistics and Probability.md",
+    "Zettelkasten/Analyzing one categorical variable.md",
+    "Others/Files/Pasted image 20250510135655.png",
+    "Zettelkasten/Edge detection in CV.md",
+    "Zettelkasten/Implict differentiation.md",
+    "Zettelkasten/Differentiation Rules.md",
+    "Zettelkasten/Tangent line of func in certain x point.md",
+    "Zettelkasten/Instantaneous velocity in func.md",
+    "Zettelkasten/Secant and tangent slope.md",
+    "Others/Excalidraw/Implict differtiaition 2025-05-09 16.05.12.excalidraw.md",
+    "Zettelkasten/Derivative of exponental func.md",
+    "Zettelkasten/Chain rule.md",
+    "Zettelkasten/Bluring in CV.md",
+    "(Open",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "vault/README.md",
-    "vault/My system in obsidian.md",
-    "vault/🏠Home/🗯️_CONCLUSION.md",
-    "vault/🏠Home/🖥️_PROGRAMMING.md",
-    "vault/🏠Home/📹_VIDEOS.md",
-    "vault/🏠Home/📖_READING.md",
-    "vault/🏠Home/📐_MATH.md",
-    "vault/🏠Home/🎸_GUITAR.md",
-    "vault/🏠Home/🌐_Languages.md",
-    "vault/🏠Home/⚛️_Physics.md",
-    "vault/🏠Home/LIVE. LOVE. LEARN..md",
-    "vault/🏠Home/_🏠Home.md",
-    "vault/🏠Home/How to learn.md",
-    "vault/🏠Home",
-    "vault/Zettelkasten/🔑Math formulas.md",
-    "vault/Zettelkasten/📚Руководство к жизни.md",
-    "vault/Zettelkasten/📚The pragmatic programmer.md",
-    "vault/Zettelkasten/📚Superlearning.md",
-    "vault/Zettelkasten/📚How to be a stoic.md",
-    "vault/Zettelkasten/📙Linar algebra.md",
-    "vault/Zettelkasten/📙Statistics and Probability.md",
-    "vault/Zettelkasten/📙Calculus.md",
-    "vault/Zettelkasten/📘Trigonometry.md",
-    "vault/Zettelkasten/📕Geometry.md",
-    "vault/Zettelkasten/📗Algebra.md",
-    "vault/Zettelkasten",
-    "vault/Reference notes/YouTube",
-    "vault/Reference notes/Guitar",
-    "vault/Reference notes/Programming",
-    "vault/Reference notes/Books",
-    "vault/Reference notes",
-    "vault/Others/Files/sticker.webp",
-    "vault/Others/Files/Pasted image 20250511140739.png",
-    "vault/Others/Files/Pasted image 20250511140843.png",
-    "vault/Others/Files/Pasted image 20250511122207.png",
-    "vault/Others/Files/Pasted image 20250510165759.png",
-    "vault/Others/Files/Pasted image 20250510164228.png",
-    "vault/Others/Files/Pasted image 20250510163348.png",
-    "vault/Others/Files/Pasted image 20250510162812.png",
-    "vault/Others/Files/Pasted image 20250510155031.png",
+    "Others/Files/Westminster 16 April 2024 AzaMath (3).pdf",
+    "Others/Files/Atomic habits ( PDFDrive ) (1).pdf",
+    "Others/Files/todo_app1.mp4",
+    "Others/Files/Учебник_мнемотехники_Система_запоминания_Джордано.pdf",
     "Untitled.canvas",
+    "Goals/2027",
+    "Goals/2026",
     "Untitled 1.canvas",
     "Без названия.canvas"
   ]
