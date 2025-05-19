@@ -44,12 +44,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "sdfsdfsdf.md",
+                    "file": "README.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "sdfsdfsdf"
+                  "title": "README"
                 }
               }
             ],
@@ -71,7 +71,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "sdfsdfsdf.md",
+                        "file": "README.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -99,7 +99,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of sdfsdfsdf"
+                      "title": "Graph of README"
                     }
                   },
                   {
@@ -297,6 +297,7 @@
   },
   "active": "5815bd095027c610",
   "lastOpenFiles": [
+    "sdfsdfsdf.md",
     "🏠Home/_🏠Home.md",
     "Zettelkasten/Table of derivatives.md",
     "Zettelkasten/Examples of Derivative of a^x.md",
@@ -332,7 +333,6 @@
     "Others/Excalidraw/Implict differtiaition 2025-05-09 16.05.12.excalidraw.md",
     "Zettelkasten/Derivative of exponental func.md",
     "Zettelkasten/Chain rule.md",
-    "Zettelkasten/Bluring in CV.md",
     "(Open",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
