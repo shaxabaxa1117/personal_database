@@ -16,8 +16,8 @@
 
 1) read the information
 2) write in your own word or do not write at all
-3) as soon as you wrote the info try to implement it into reality by<mark style="background: #BBFABBA6;"> experimenting</mark> in  [[⚡_Practice]] notes 
-4) Start day by reading all [[⚡_Practice]] notes 
+3) as soon as you wrote the info try to implement it into reality by<mark style="background: #BBFABBA6;"> experimenting</mark> 
+
 
 
 
