@@ -1,5 +1,9 @@
 sdfgdfgdfg
 
+sdfsdfsdfsdf
+111
+
+
 #home
 >  **I should lead obsidian as long as I do not want to be messed up in my thoughts. The notes should be simple and the ideas must be written in the readable way by myself**
 
