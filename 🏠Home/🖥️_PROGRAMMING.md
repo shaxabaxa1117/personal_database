@@ -24,7 +24,7 @@ Status : #Programming
 
 ## General
 
-[[C/C++ programming languegaes]]
+[[C/C++ programming langueges]]
 
 ---
 
