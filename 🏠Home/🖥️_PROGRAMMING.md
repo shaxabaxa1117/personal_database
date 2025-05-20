@@ -22,6 +22,9 @@ Status : #Programming
 # [[Computer Vision]]
 # [[Python]]
 
+## General
+
+[[C/C++ programming languegaes]]
 
 ---
 
