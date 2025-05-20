@@ -30,12 +30,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "🏠Home/_🏠Home.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "README"
+                  "title": "_🏠Home"
                 }
               }
             ],
@@ -283,9 +283,9 @@
   },
   "active": "8d47855fde67d8e9",
   "lastOpenFiles": [
+    "README.md",
     "sdfsdfsdf.md",
     "Zettelkasten/PomoBasket.md",
-    "README.md",
     "🏠Home/_🏠Home.md",
     "Zettelkasten/Table of derivatives.md",
     "Zettelkasten/Examples of Derivative of a^x.md",
